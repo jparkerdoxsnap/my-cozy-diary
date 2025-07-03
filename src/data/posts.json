@@ -1,0 +1,16 @@
+[
+  {
+    "id": "first-post",
+    "title": "A New Beginning",
+    "date": "2025-07-01",
+    "summary": "Starting my cozy digital diary journey.",
+    "content": "Dear Diary, today I begin something new..."
+  },
+  {
+    "id": "second-post",
+    "title": "Soft Mornings",
+    "date": "2025-07-02",
+    "summary": "How gentle mornings inspire my writing.",
+    "content": "There’s something magical about the quiet hours..."
+  }
+]
